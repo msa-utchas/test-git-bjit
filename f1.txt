@@ -1,1 +1,2 @@
-This is from  sub-branch.
+Edit text from main branch
+This is file 1 from main branch
