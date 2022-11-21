@@ -4,5 +4,5 @@ This is file 1 from main branch
 
 This is from sprint-1 branch.
 Try to create merge conflict.
-And try to resolve merge conflict.
+And try to resolve merge conflict
 
