@@ -3,6 +3,6 @@ Edit text from main branch
 This is file 1 from main branch
 
 This is from sprint-1 branch.
-merge conflict happend in f1 
+Do some review
 And try to resolve merge conflict
 
